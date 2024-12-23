@@ -25,6 +25,6 @@ This repository hosts the source code for MaBs Café's website, designed as a on
 2. Open `index.html` in a browser.
 
 ## **Contact**
-- **Email:** manjuchowdary87@gmail.com  
+- **Email:** madinenimanjunath04@gmail.com  
 - **Phone:** +91-9110798287 
 
